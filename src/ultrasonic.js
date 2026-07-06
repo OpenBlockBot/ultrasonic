@@ -1,6 +1,6 @@
 const {ArgumentType, BlockType, formatMessage} = window.Scratch;
 
- // eslint-disable-line func-style
+// eslint-disable-line func-style
 // Determine the global object based on the environment (Node.js or browser).
 
 // Import required Scratch modules from the global object.

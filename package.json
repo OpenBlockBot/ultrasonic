@@ -1,6 +1,6 @@
 {
   "name": "ultrasonic",
-  "version": "2.0.0",
+  "version": "0.1.0",
   "author": "Liang",
   "license": "MIT",
   "repository": {
@@ -27,13 +27,8 @@
       }
     },
     "extensionId": "ultrasonic",
-    "supportDevice": [
-      "arduinoUno",
-      "arduinoNano",
-      "arduinoLeonardo",
-      "arduinoMega2560",
-      "arduinoEsp32",
-      "arduinoEsp8266"
+    "arch": [
+      "arduino-*"
     ],
     "iconURL": "./assets/ultrasonic.png",
     "description": {
