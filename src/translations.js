@@ -55,9 +55,21 @@ export default {
         }
     },
     'blocks': {
-        'en': {},
-        'ru': {},
-        'zh-cn': {},
-        'zh-tw': {}
+        'en': {
+            'ULTRASONIC_CATEGORY': 'Ultrasonic',
+            'ULTRASONIC_READ_DISTANCE': 'ultrasonic sensor pin TRIG %1 ECHO %2 read distance %3'
+        },
+        'ru': {
+            'ULTRASONIC_CATEGORY': 'Ultrasonic',
+            'ULTRASONIC_READ_DISTANCE': 'ultrasonic sensor pin TRIG %1 ECHO %2 read distance %3'
+        },
+        'zh-cn': {
+            'ULTRASONIC_CATEGORY': 'Ultrasonic',
+            'ULTRASONIC_READ_DISTANCE': 'ultrasonic sensor pin TRIG %1 ECHO %2 read distance %3'
+        },
+        'zh-tw': {
+            'ULTRASONIC_CATEGORY': 'Ultrasonic',
+            'ULTRASONIC_READ_DISTANCE': 'ultrasonic sensor pin TRIG %1 ECHO %2 read distance %3'
+        }
     }
 };
